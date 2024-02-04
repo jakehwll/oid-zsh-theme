@@ -24,3 +24,5 @@ Then update your `.zshrc` to use `ZSH_THEME="oid"`
 - # ZSH_THEME="robbyrussell"
 + ZSH_THEME="oid"
 ```
+
+> **Note** You will need a [nerd fonts](https://www.nerdfonts.com/font-downloads) font for the rounded circles and git branch icon to render correctly. I recommend `BlexMono Nerd Font`.
